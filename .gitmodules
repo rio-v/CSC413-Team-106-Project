@@ -1,0 +1,3 @@
+[submodule "TextGAN-PyTorch"]
+	path = TextGAN-PyTorch
+	url = https://github.com/williamSYSU/TextGAN-PyTorch.git
