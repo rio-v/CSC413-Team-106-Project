@@ -1,3 +1,3 @@
 [submodule "TextGAN-PyTorch"]
 	path = TextGAN-PyTorch
-	url = https://github.com/williamSYSU/TextGAN-PyTorch.git
+	url = https://github.com/rio-v/CSC413-Team-106-Project
